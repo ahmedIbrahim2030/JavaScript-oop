@@ -1,4 +1,4 @@
-# OOP 10 - JavaScript Object-Oriented Programming Practice
+# JavaScript Object-Oriented Programming Practice
 
 This project is a small JavaScript learning exercise focused on Object-Oriented Programming (OOP) concepts. It demonstrates the core ideas behind OOP in JavaScript, including constructor functions, prototypes, ES6 classes, inheritance, getters/setters, static methods, and encapsulation.
 
